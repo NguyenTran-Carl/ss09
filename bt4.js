@@ -1,0 +1,1 @@
+let confirm = confirm("Bạn đã đủ tuổi chưa?");
